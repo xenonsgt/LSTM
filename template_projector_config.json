@@ -6,8 +6,8 @@
         10000,
         200
       ],
-      "tensorPath": "https://www.stellus.ch/wp-content/uploads/2019/06/vecs.tsv",
-      "metadataPath": "https://www.stellus.ch/wp-content/uploads/2019/06/meta.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/xenonsgt/LSTM/master/vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/xenonsgt/LSTM/master/meta.tsv"
     }
   ]
 }
