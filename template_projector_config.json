@@ -1,0 +1,14 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "LSTM",
+      "tensorShape": [
+        10000,
+        200
+      ],
+      "tensorPath": "https://www.stellus.ch/wp-content/uploads/2019/06/vecs.tsv",
+      "metadataPath": "https://www.stellus.ch/wp-content/uploads/2019/06/meta.tsv"
+    }
+  ]
+}
+
