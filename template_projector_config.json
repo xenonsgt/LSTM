@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "LSTM",
+      "tensorName": "Word-Embeddings",
       "tensorShape": [
         10000,
         200
